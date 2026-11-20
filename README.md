@@ -1,5 +1,9 @@
 # news-image-20261120 — The World in One Day
 
+[![make.fun](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120)
+[![rank](https://make.fun/badge/nimonandang15/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120)
+[![reward](https://make.fun/badge/nimonandang15/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120)
+
 Entry for the Makefun competition
 ["Sum up 20 November's world news in one image"](https://make.fun/bounty/news-image-20261120)
 ($250 prize pool, 50 paid places).
